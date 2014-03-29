@@ -1,0 +1,16 @@
+Round Type: single
+Total equipos: 3
+Nombre: champs
+J1: fulano perez
+Peso1: 60
+J2: fulano perez2
+Peso2: 40%
+J3: fulano perez3 - 80%
+Nombre: otros champs
+J1: fulano perez - 60%
+J2: fulano perez2 - 40%
+J3: fulano perez3 - 80%
+Nombre: equis
+J1: fulano perez - 60%
+J2: fulano perez2 - 40%
+J3: fulano perez3 - 80%
